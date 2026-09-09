@@ -104,7 +104,7 @@ The dashboard analyzes churn across different customer characteristics, includin
 - Internet Service
 - Customer churn status
 
-![Customer Churn Dashboard](screenshots/customer_churn_dashboard.png)
+![Customer Churn Dashboard](screenshots/customer_churn_dashboard.png.png)
 ## 💡 Key Insights
 
 - The dataset contains **7,043 customers**, with **1,869 customers classified as churned**.
