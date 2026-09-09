@@ -7,6 +7,17 @@ Customer churn is a major challenge for subscription-based businesses. This proj
 
 The project combines **Python-based data analysis and churn prediction** with an interactive **Power BI dashboard** for business-focused insights.
 
+## ⭐ Project Highlights
+
+| Area | Highlights |
+|---|---|
+| Dataset | 7,043 telecom customers |
+| Machine Learning | Artificial Neural Network (ANN) |
+| Model Accuracy | 77.73% |
+| Churn Rate | 26.54% |
+| Visualization | Interactive Power BI Dashboard |
+| Demonstration | Embedded project walkthrough |
+
 ## 🎯 Business Problem
 
 Telecom companies face revenue loss when customers discontinue their services. 
