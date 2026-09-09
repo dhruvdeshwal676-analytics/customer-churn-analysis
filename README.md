@@ -80,6 +80,12 @@ The model achieved the following results:
 
 These metrics help evaluate how effectively the model identifies customers likely to churn.
 
+## 🎥 Project Demo
+
+A screen recording demonstrating the execution of the Customer Churn Analysis and Prediction workflow.
+
+[▶️ Watch the Project Demo](video/customer_churn_analysis_demo.mp4)
+
 ## 📊 Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of customer churn and retention.
