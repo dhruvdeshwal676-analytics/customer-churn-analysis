@@ -82,9 +82,15 @@ These metrics help evaluate how effectively the model identifies customers likel
 
 ## 🎥 Project Demo
 
-A screen recording demonstrating the execution of the Customer Churn Analysis and Prediction workflow.
+### Customer Churn Analysis & Prediction
 
-[▶️ Watch the Project Demo](video/customer_churn_analysis_demo.mp4)
+A complete demonstration of the data preprocessing, ANN model,
+prediction workflow, and Power BI dashboard.
+
+https://github.com/user-attachments/assets/427e0509-3526-4652-9286-eb897ac63f5a
+
+*Interactive project demonstration — click ▶ to play*
+
 
 ## 📊 Power BI Dashboard
 
